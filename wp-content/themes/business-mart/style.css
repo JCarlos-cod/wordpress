@@ -1,0 +1,306 @@
+/*
+Theme Name: Business Mart
+Theme URI: https://wenthemes.com/item/wordpress-themes/business-mart/
+Author: WEN Themes
+Author URI: https://wenthemes.com/
+Description: Business Mart is a simple child theme of Surya Chandra Lite with green color scheme. It is a responsive corporate WordPress theme. Powered with drag and drop page builder, SiteOrigin Page Builder, it is easy and straightforward for customization. It comes with multiple widgets with which you can create custom layouts with less efforts. For quick start, sample demo content files are available in the theme enabling one click demo import. With several customization options provided in the theme allows you to setup site as per your targeted online presence. Theme Demo: https://demo.wenthemes.com/business-mart/
+Version: 1.2.2
+Requires at least: 5.1
+Tested up to: 5.5
+Requires PHP: 5.6
+License: GPLv3
+Template: surya-chandra-lite
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, sticky-post, custom-background, custom-header, custom-colors, custom-menu, featured-images, full-width-template, translation-ready, theme-options, threaded-comments, custom-logo, blog
+Text Domain: business-mart
+
+Business Mart WordPress Theme, Copyright 2020 WEN Themes
+Business Mart is distributed under the terms of the GNU GPL
+
+Business Mart WordPress Theme is child theme of Surya Chandra Lite WordPress Theme, Copyright 2020 WEN Themes
+Surya Chandra Lite WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+.main-navigation ul li a,
+.main-navigation ul ul a {
+	color: #666666;
+}
+
+.main-navigation li > a:hover,
+.main-navigation li > a:focus,
+.main-navigation li.current-menu-item > a,
+.main-navigation li.current-page-item > a,
+.main-navigation li:hover > a,
+.main-navigation li:focus > a,
+.main-navigation li.focus > a {
+    color: #1abc9c;
+}
+
+.main-navigation li li > a:hover,
+.main-navigation li li > a:focus,
+.main-navigation li li.current-menu-item > a,
+.main-navigation li li.current-page-item > a,
+.main-navigation li li:hover > a,
+.main-navigation li li:focus > a,
+.main-navigation li li.focus > a {
+    background-color: #1abc9c;
+    color:#fff;
+}
+
+.dropdown-toggle {
+	background-color: #666;
+}
+
+.dropdown-toggle,
+.dropdown-toggle:hover,
+.dropdown-toggle:focus {
+    color:#fff;
+}
+
+#menu-toggle:hover,
+#menu-toggle:focus,
+.is-open #menu-toggle {
+    border-color: #1abc9c;
+    color: #1abc9c;
+}
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.surya-chandra-woocommerce .slick-arrow i:hover,
+.surya-chandra-woocommerce .slick-arrow i:focus,
+.sidebar .widget-title-wrapper,
+.latest-news-text-content .entry-month,
+#content .section-call-to-action.cta-layout-1,
+a.custom-button.custom-primary-button,
+a.custom-button.custom-primary-button:visited,
+a.custom-button,
+a.custom-button:visited,
+button,
+button:hover,
+button:focus,
+button:active,
+a.custom-button:hover,
+a.custom-button:focus,
+a.custom-button:active,
+a.button,
+a.button:hover,
+a.button:focus,
+a.button:active,
+a.custom-button.custom-primary-button:hover,
+a.custom-button.custom-primary-button:focus,
+a.custom-button.custom-primary-button:active,
+#quick-link-buttons a.custom-button.cart-button:hover > span,
+#quick-link-buttons a.custom-button.cart-button:focus > span,
+.widget_surya-chandra-slider .cycle-prev:hover,
+.widget_surya-chandra-slider .cycle-prev:focus,
+.widget_surya-chandra-slider .cycle-next:hover,
+.widget_surya-chandra-slider .cycle-next:focus,
+.contact-map .map-inner-wrapper,
+a.custom-button.custom-secondary-button:hover,
+a.custom-button.custom-secondary-button:focus,
+.widget_surya-chandra-slider .cycle-pager .cycle-pager-active,
+#footer-widgets .widget-title:after,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="button"]:active,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="reset"]:active,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="submit"]:active,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.pagination .nav-links .current,
+.pagination .nav-links a:hover,
+.pagination .nav-links a:focus,
+.pagination .nav-links a:active,
+.portfolio-content a i,
+.contact-map .map-inner-wrapper,
+a.scrollup,
+a.scrollup:visited,
+.sidebar .widget-title:after,
+.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce nav.woocommerce-pagination ul li a:focus,
+.woocommerce nav.woocommerce-pagination ul li span.current,
+.section.section-featured-page .custom-button:hover,
+.section.section-featured-page .custom-button:focus,
+.section.section-featured-page .custom-button:active,
+.section.section-project .custom-button:hover,
+.section.section-project .custom-button:focus,
+.section.section-project .custom-button:active,
+.section-services .service-block-inner:before,
+.section-teams .thumb-summary-wrap:before,
+.section-plan .plan-item h3 {
+	background: #1ABC9C;
+}
+
+.cta-layout-1 a.custom-button.custom-primary-button {
+	background: #222;
+}
+
+.sidebar ul li::before,
+.site-title a span,
+.sidebar ul li a:hover,
+.sidebar ul li a:focus,
+.sidebar ul li a:active,
+.portfolio-content h3 a:hover,
+.portfolio-content h3 a:focus,
+.entry-meta a:hover,
+.entry-meta a:focus,
+.entry-meta a:active,
+.site-title a:hover,
+.site-title a:focus,
+.site-title a:active,
+.section_services .service-item-title a:hover,
+.section_services .service-item-title a:focus,
+.section_latest_news .latest-news-item .latest-news-title a:hover,
+.section_latest_news .latest-news-item .latest-news-title a:focus,
+.section_plan .plan-icon i,
+.letter-highlight-enabled #content .panel-layout .widget-title:first-letter,
+.letter-highlight-enabled .page-title:first-letter,
+#quick-link-buttons a.custom-button.cart-button:hover,
+#quick-link-buttons a.custom-button.cart-button:focus,
+#quick-link-buttons a.custom-button.quick-link-button:hover,
+#quick-link-buttons a.custom-button.quick-link-button:focus,
+a.custom-button.custom-secondary-button,
+a,
+a:visited,
+.entry-title a:hover,
+.entry-title a:focus,
+.entry-title a:active,
+#quick-link-buttons .cart-button > span,
+.portfolio-filter a.active,
+#tophead a.search-icon,
+.section-plan .plan-text h3,
+.section-plan .plan-icon span,
+.section-services .service-item-title a:hover,
+.section-services .service-item-title a:focus,
+.section-latest-news .latest-news-item .latest-news-title a:hover,
+.section-latest-news .latest-news-item .latest-news-title a:focus,
+.portfolio-filter a.current,
+.portfolio-filter a.active,
+.portfolio-filter a:hover,
+.portfolio-filter a:focus {
+	color: #1ABC9C;
+}
+
+.header-layout-2 .main-navigation ul li a:hover,
+.header-layout-2 .main-navigation ul li a:focus,
+.header-layout-2 .main-navigation li.current-menu-item > a,
+.header-layout-2 .main-navigation li.current-page-item > a,
+.header-layout-2 #header-right .search-icon:hover,
+.header-layout-2 #header-right .search-icon:focus {
+	color: #1ABC9C;
+}
+
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="button"]:active,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="reset"]:active,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="submit"]:active {
+	background-color: #222;
+}
+
+#quick-link-buttons a.custom-button.cart-button:hover > span,
+#quick-link-buttons a.custom-button.cart-button:focus > span,
+#main-slider .cycle-prev:hover,
+#main-slider .cycle-prev:focus,
+#main-slider .cycle-next:hover,
+#main-slider .cycle-next:focus {
+	color: #fff;
+}
+
+#quick-link-buttons a.custom-button.quick-link-button:hover,
+#quick-link-buttons a.custom-button.quick-link-button:focus,
+#quick-link-buttons a.custom-button.cart-button:hover,
+#quick-link-buttons a.custom-button.cart-button:focus {
+	background-color: inherit;
+	border: 2px solid #1ABC9C;
+}
+
+.main-navigation ul li.menu-item-has-children.current-menu-item > a::after,
+.main-navigation ul li.page-item-has-children.current-menu-item > a::after {
+	border-top-color:#1ABC9C;
+}
+
+.portfolio-content a i,
+.entry-thumb .custom-entry-date,
+.pagination .nav-links .current,
+.pagination .nav-links a:hover,
+.pagination .nav-links a:focus,
+.pagination .nav-links a:active {
+	border-color: #1ABC9C;
+}
+
+a.custom-button.custom-secondary-button {
+	background-color: #fff;
+}
+
+input.search-submit,
+input.search-submit:visited,
+input.search-submit:hover,
+input.search-submit:focus,
+input.search-submit:active {
+	background: inherit!important;
+	color: #222;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #272727;
+}
+
+.feature-wrapper:before {
+    background: #1abc9c;
+}
+
+.so-widget-sow-hero .sow-slider-base .sow-slide-nav a {
+	background: #fff;
+	color: #222;
+}
+
+.so-widget-sow-hero .sow-slider-base .sow-slide-nav a:hover,
+.so-widget-sow-hero .sow-slider-base .sow-slide-nav a:focus,
+.so-widget-sow-hero .sow-slider-base .sow-slider-pagination li.sow-active a,
+.so-widget-sow-hero .sow-slider-base .sow-slider-pagination li a:hover,
+.so-widget-sow-hero .sow-slider-base .sow-slider-pagination li a:focus {
+	background: #1abc9c;
+	color: #fff;
+}
+
+.widget_sow-google-map {
+	background: #ffffff;
+}
+
+.section-latest-news .latest-news-wrapper {
+	background: #fff;
+}
+
+.header-layout-2 .main-navigation ul ul {
+	top: 52px;
+}
+
+#content .so-widget-sow-hero .sow-slider-image-wrapper p,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h1,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h2,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h3,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h4,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h5,
+#content .so-widget-sow-hero .sow-slider-image-wrapper h6 {
+	margin: 0 0 5px 0;
+	line-height: 1.5;
+}

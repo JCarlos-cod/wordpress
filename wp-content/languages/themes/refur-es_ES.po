@@ -1,0 +1,393 @@
+# Translation of Themes - Refur in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Refur package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-18 20:39:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Refur\n"
+
+#. Description of the theme
+msgid "Refur theme from Crocoblock will be a good solution for your business or blog website as it suits for both. Its minimalistic and mixed layout makes it work for both corporate website and blog one."
+msgstr "El tema Refur de Crocoblock será una buena solución para tu web de negocios o blog, ya que se adecúa para ambos. Su diseño minimalista y mixto hace que funcione tanto para webs corporativas como para un blog."
+
+#. Theme Name of the theme
+msgid "Refur"
+msgstr "Refur"
+
+#. Template Name of the theme
+msgid "Posts With Featured Content"
+msgstr "Entradas con contenido destacado"
+
+#: template-parts/content-single.php:26 template-parts/content-page.php:21
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estas buscando. Tal vez, continuar buscando pueda ayudar."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/archive.php:28
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/template-tags.php:442
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/template-tags.php:437 template-parts/single.php:21
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/template-tags.php:436 template-parts/single.php:20
+msgid "Prev"
+msgstr "Anterior"
+
+#: inc/template-tags.php:148
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:143
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/template-tags.php:120 inc/template-tags.php:173
+msgid "Tagged %1$s"
+msgstr "Etiquetado con %1$s"
+
+#: inc/template-tags.php:104 inc/template-tags.php:167
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:102 inc/template-tags.php:118
+#: inc/template-tags.php:165 inc/template-tags.php:171
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:90 inc/template-tags.php:179
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:90 inc/template-tags.php:179
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:90 inc/template-tags.php:179
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/extras.php:266
+msgid "Website"
+msgstr "Web"
+
+#: inc/extras.php:265
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/extras.php:264
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/extras.php:224
+msgid "ago"
+msgstr "atrás"
+
+#: inc/extras.php:241
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: inc/extras.php:211 inc/template-tags.php:183
+#: template-parts/content-page.php:28
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/extras.php:211
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: inc/extras.php:96
+msgid "Custom Settings"
+msgstr "Ajustes personalizados"
+
+#: inc/extras.php:93
+msgid "All theme strings are ready to be translated. You can add your personal translation in several minutes."
+msgstr "Todas las cadenas del tema están preparadas para ser traducidas. Puedes añadir tu traducción personal en pocos minutos."
+
+#: inc/extras.php:103
+msgid "We'll help you to resolve any issue you may face with while working with the theme."
+msgstr "Te ayudaremos a resolver cualquier problema con el que te encuentres mientras trabajas con el tema."
+
+#: inc/extras.php:101
+msgid "Great Support"
+msgstr "Gran soporte"
+
+#: inc/extras.php:98
+msgid "All theme settings are implemented into the native WordPress customizer - all you need is here, in one place."
+msgstr "Todos los ajustes del tema están implementados en el personalizador nativo de WordPress: todo lo que necesitas está aquí, en un solo lugar."
+
+#: inc/extras.php:91
+msgid "Translation Ready"
+msgstr "Preparado para traducir"
+
+#: inc/extras.php:71
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/extras.php:66
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/extras.php:56
+msgid "Google +"
+msgstr "Google+"
+
+#: inc/extras.php:61
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/extras.php:51
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/extras.php:46
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:234
+msgid "Link to %s account:"
+msgstr "Enlace a la cuenta %s:"
+
+#: inc/customizer.php:214
+msgid "Header Socials"
+msgstr "Cabecera de enlaces sociales"
+
+#: inc/customizer.php:204
+msgid "Set custom copyright text"
+msgstr "Establecer el texto personalizado de copyright"
+
+#: inc/customizer.php:193
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:183
+msgid "Loop page: read more button text"
+msgstr "Página de bucle: texto del botón «Leer más»"
+
+#: inc/customizer.php:178 inc/template-tags.php:424
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/customizer.php:169
+msgid "Loop page: show read more button"
+msgstr "Página de bucle: mostrar el botón «Leer más»"
+
+#: inc/customizer.php:155
+msgid "Single page: show featured image"
+msgstr "Página individual: mostrar imagen destacada"
+
+#: inc/customizer.php:141
+msgid "Loop page: show featured image"
+msgstr "Página de bucle: mostrar imagen destacada"
+
+#: inc/customizer.php:130
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:119
+msgid "Section %s content"
+msgstr "Contenido de la sección %s"
+
+#: inc/customizer.php:105
+msgid "Section %s icon"
+msgstr "Icono de la sección %s"
+
+#: inc/customizer.php:92
+msgid "Section %s title"
+msgstr "Título de la sección %s"
+
+#: inc/customizer.php:73
+msgid "here"
+msgstr "aquí"
+
+#: inc/customizer.php:72
+msgid "Set icon from FontAwesome icons (pass only icon slug, e.q. cogs or fa-cogs, avaliabe icons you can find %s)"
+msgstr "Establece un icono de Font Awesome (escribe solo el slug del icono, por ejemplo, «cogs» o «fa-cogs», los iconos disponibles los puedes encontrar %s)"
+
+#: inc/customizer.php:68
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/custom-header.php:42
+msgid "Your Awesome Blog"
+msgstr "Tu impresionante blog"
+
+#: inc/custom-header.php:150
+msgid "Header button URL"
+msgstr "URL del botón de la cabecera"
+
+#: inc/custom-header.php:138
+msgid "Header button text (leave empty to remove button)"
+msgstr "Texto del botón de la cabecera (déjalo vacío para quitar el botón)"
+
+#: inc/custom-header.php:126
+msgid "Header slogan description"
+msgstr "Descripción del eslogan de la cabecera"
+
+#: inc/custom-header.php:114
+msgid "Header slogan title"
+msgstr "Título del eslogan de la cabecera"
+
+#: inc/custom-header.php:97
+msgid "Image mask fill level"
+msgstr "Nivel de relleno de la máscara de imagen"
+
+#: inc/custom-header.php:85
+msgid "Image Mask Color"
+msgstr "Color de máscara de la imagen"
+
+#: inc/custom-header.php:44
+msgid "Call to action"
+msgstr "Llamada a la acción"
+
+#: inc/custom-header.php:43
+msgid "Just a few words why you blog is so awesome"
+msgstr "Solo unas pocas palabras por las que tu blog es tan increíble"
+
+#: inc/customizer.php:59
+msgid "Logo Image"
+msgstr "Imagen del logotipo"
+
+#: inc/customizer.php:47
+msgid "Header Logo"
+msgstr "Logotipo de la cabecera"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:206
+msgctxt "Set subset for you language more info here - https://www.google.com/fonts/"
+msgid "latin,latin-ext"
+msgstr "latin,latin-ext"
+
+#: functions.php:201
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:194
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:187
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:137
+msgid "Sidebar Footer"
+msgstr "Barra lateral del pie de página"
+
+#: functions.php:127
+msgid "Sidebar Main"
+msgstr "Barra lateral principal"
+
+#: functions.php:52 template-parts/header.php:35
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: template-parts/footer.php:28
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: template-parts/footer.php:26
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: template-parts/footer.php:26
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:85
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario para %s"
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:83
+msgid "Comment*"
+msgstr "Comentario* "
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Siguientes comentarios"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios sobre &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: template-parts/404.php:49
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: template-parts/404.php:30
+msgid "Most Used Categories"
+msgstr "Categorías más utilizadas"
+
+#: template-parts/404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Quieres probar uno de los enlaces de abajo o una búsqueda?"
+
+#: template-parts/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://crocoblock.com/"
+msgstr "https://crocoblock.com/"
+
+#. Author of the theme
+msgid "Crocoblock"
+msgstr "Crocoblock"
+
+#. Theme URI of the theme
+msgid "https://github.com/Crocoblock/refur"
+msgstr "https://github.com/Crocoblock/refur"
